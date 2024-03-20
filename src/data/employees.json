@@ -1,0 +1,7 @@
+[
+  { "id": 1, "name": "John Doe", "level": "junior" },
+  { "id": 2, "name": "Jane Smith", "level": "senior" },
+  { "id": 3, "name": "David Johnson", "level": "manager" },
+  { "id": 4, "name": "Emily Brown", "level": "director" },
+  { "id": 5, "name": "Michael Wilson", "level": "junior" }
+]
