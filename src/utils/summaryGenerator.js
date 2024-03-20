@@ -27,6 +27,7 @@ function displaySummary(dispatcher, startTime) {
   const endTime = Date.now();
   const durationSeconds = (endTime - startTime) / 1000;
   console.log(`\n⏱️  Simulation duration: ${durationSeconds} seconds`);
+  process.exit();
 }
 
 module.exports = {

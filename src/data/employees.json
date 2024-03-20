@@ -3,5 +3,8 @@
   { "id": 2, "name": "Jane Smith", "level": "senior" },
   { "id": 3, "name": "David Johnson", "level": "manager" },
   { "id": 4, "name": "Emily Brown", "level": "director" },
-  { "id": 5, "name": "Michael Wilson", "level": "junior" }
+  { "id": 5, "name": "Michael Wilson", "level": "junior" },
+  { "id": 6, "name": "Amanda Lee", "level": "senior" },
+  { "id": 7, "name": "Robert Anderson", "level": "manager" },
+  { "id": 8, "name": "Sophia White", "level": "director" }
 ]
